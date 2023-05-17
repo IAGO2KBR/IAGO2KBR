@@ -10,8 +10,8 @@
 
 
 <div style="display: inline_block"><br>
-  <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=IAGO2KBR&show_icons=true&theme=tokyonight"/>
-  <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IAGO2KBR&layout=compact&langs_count=16&theme=tokyonight"/>
+  <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=iago2kbr&show_icons=true&theme=tokyonight"/>
+  <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iago2kbr&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 <div>
  <H2>TECNOLOGIAS QUE ESTUDO:</H2>
