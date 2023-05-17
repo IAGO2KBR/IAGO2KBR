@@ -2,7 +2,7 @@
 
 - Voluntário na ONG Instituto Bold 💜🧡
 - Graduando Ciência Da Computação 🎓
-- Futuro Desnvolvedor FullStack 👩‍💻❤️
+- Futuro Desenvolvedor FullStack 👩‍💻❤️
 - Construindo meu Portifólio 🧗
 - Pronomes: Ele/Dele😄
 - Sendo 1% melhor a cada dia 🚀
