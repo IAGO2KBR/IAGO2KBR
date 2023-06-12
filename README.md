@@ -1,5 +1,8 @@
 ### Oi Sou o Iago, aprendiz da Arte do Saber, dando os meus primeiros passos em progrmação.👋 
 
+Busco uma oportunidade em uma empresa com intuito de ser mentorado por profissionais experientes, já que
+o que mais quero e aprender e me desenvolver.
+
 - Voluntário na ONG Instituto Bold 💜🧡
 - Graduando Ciência Da Computação 🎓
 - Futuro Desenvolvedor FullStack 👩‍💻❤️
